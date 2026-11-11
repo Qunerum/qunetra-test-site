@@ -1,0 +1,7 @@
+meta:
+	title("Test site")
+:meta
+
+body:
+	t("Hello, World!")
+:body
