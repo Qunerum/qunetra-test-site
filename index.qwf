@@ -3,6 +3,11 @@ meta:
 	desc: "Test website for Qunetra"
 :meta
 
+- test:
+	echo: "Button clicked!"
+:-
+
 body:
 	t: "Hello, World!"
+	btn: "Test Button" oc: test
 :body
