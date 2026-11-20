@@ -1,7 +1,8 @@
 meta:
-	title("Test site")
+	title: "Test website"
+	desc: "Test website for Qunetra"
 :meta
 
 body:
-	t("Hello, World!")
+	t: "Hello, World!"
 :body
